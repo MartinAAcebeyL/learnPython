@@ -1,0 +1,1 @@
+from .Ejer_string import function

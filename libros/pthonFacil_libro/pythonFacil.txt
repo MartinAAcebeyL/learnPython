@@ -1,0 +1,13 @@
+--averiguar mas de
+
+generadores -> practicar
+herencia tipo diamante -> 
+metodos atados y no atados
+property, __getattr_ y __setattr_
+metodo de clase
+__slots__
+clases de nueva clase
+zip
+
+124
+--averiguar mas de iteradores y generadores
